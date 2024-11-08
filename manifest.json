@@ -1,0 +1,16 @@
+{
+  "name": "EPUB Reader",
+  "short_name": "Reader",
+  "description": "A simple EPUB reader",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
